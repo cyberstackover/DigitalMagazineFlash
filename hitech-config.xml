@@ -1,0 +1,19 @@
+<FlippingBook>
+	<width>1000</width>
+	<height>700</height>
+	<flipSound>sound/01.mp3</flipSound>
+	<firstPage>1</firstPage>
+
+	<pages>
+		<page>pages/hitech/Index Hi-Tech.swf</page>
+		<page>pages/hitech/Cover Hi-Tech L.swf</page>	
+		<page>pages/hitech/Cover Hi-Tech R.swf</page>
+		<page>pages/hitech/1L.swf</page>
+		<page>pages/hitech/1R.swf</page>
+		<page>pages/hitech/2L.swf</page>
+		<page>pages/hitech/2R.swf</page>
+		<page>pages/hitech/H3 L.swf</page>
+		<page>pages/hitech/H3 F.swf</page>
+		<page>pages/hitech/back hi-tech.png</page>
+	</pages>
+</FlippingBook>

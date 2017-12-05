@@ -1,0 +1,13 @@
+<FlippingBook>
+	<width>1162</width>
+	<height>700</height>
+
+	<firstPage>1</firstPage>
+	<flipSound>sound/01.mp3</flipSound>
+	<pages>
+		<page>pages/bc_none.png</page>
+		<page>pages/cover_kiri.swf</page>
+		<page>pages/Cover_kanan.png</page>
+		<page>pages/bc_none.png</page>
+	</pages>
+</FlippingBook>

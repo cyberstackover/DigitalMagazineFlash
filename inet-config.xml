@@ -1,0 +1,29 @@
+<FlippingBook>
+	<width>1000</width>
+	<height>700</height>
+	<flipSound>sound/01.mp3</flipSound>
+	<firstPage>1</firstPage>
+
+	<pages>
+		<page>pages/inet/Index Ines & Iman.swf</page>
+		<page>pages/inet/Cover Ines dan Iman L.swf</page>
+		<page>pages/inet/Cover Ines dan Iman R.swf</page>
+		<page>pages/inet/1a L.swf</page>
+		<page>pages/inet/1a R.swf</page>
+		<page>pages/inet/1b L.swf</page>
+		<page>pages/inet/1b R.swf</page>
+		<page>pages/inet/2a L.swf</page>
+		<page>pages/inet/2a R.swf</page>
+		<page>pages/inet/2b L.swf</page>
+		<page>pages/inet/2b R.swf</page>
+		<page>pages/inet/3 L.swf</page>
+		<page>pages/inet/3 R.swf</page>
+		<page>pages/inet/4 L.swf</page>
+		<page>pages/inet/4 R.swf</page>
+		<page>pages/inet/5 L.swf</page>
+		<page>pages/inet/5 R.swf</page>
+		<page>pages/inet/animasi.swf</page>
+		<page>pages/inet/komik.jpg</page>
+		<page>pages/inet/back insan.png</page>
+	</pages>
+</FlippingBook>

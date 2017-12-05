@@ -1,0 +1,21 @@
+<FlippingBook>
+	<width>1162</width>
+	<height>700</height>
+	<flipSound>sound/01.mp3</flipSound>
+	<firstPage>1</firstPage>
+
+	<pages>
+		<page>pages/skultim/Index skultim.swf</page>
+		<page>pages/skultim/covsL.swf</page>
+		<page>pages/skultim/covsR.swf</page>
+		<page>pages/skultim/salam XUPR L.swf</page>
+		<page>pages/skultim/salam XUPR R.swf</page>
+		<page>pages/skultim/Sekolah L.swf</page>
+		<page>pages/skultim/Sekolah R.swf</page>
+		<page>pages/skultim/XUPRmen L.swf</page>
+		<page>pages/skultim/XUPRmen R.swf</page>
+		<page>pages/skultim/karakter-kiri.png</page>
+		<page>pages/skultim/karakter-kanan.png</page>
+		<page>pages/skultim/backcover.png</page>
+	</pages>
+</FlippingBook>

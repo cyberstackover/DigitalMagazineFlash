@@ -1,0 +1,29 @@
+<FlippingBook>
+	<width>1000</width>
+	<height>700</height>
+	<flipSound>sound/01.mp3</flipSound>
+	<firstPage>1</firstPage>
+
+	<pages>
+		<page>pages/norton/Index Norton.swf</page>
+		<page>pages/norton/CoverNortonL.swf</page>
+		<page>pages/norton/CoverNortonR.swf</page>
+		<page>pages/norton/1L.swf</page>
+		<page>pages/norton/1R.swf</page>
+		<page>pages/norton/2L.swf</page>
+		<page>pages/norton/2R.swf</page>
+		<page>pages/norton/3L.swf</page>
+		<page>pages/norton/3R.swf</page>
+		<page>pages/norton/4L.swf</page>
+		<page>pages/norton/4R.swf</page>
+		<page>pages/norton/5L.swf</page>
+		<page>pages/norton/5R.swf</page>
+		<page>pages/norton/6L.swf</page>
+		<page>pages/norton/6R.swf</page>
+		<page>pages/norton/7L.swf</page>
+		<page>pages/norton/7R.swf</page>
+		<page>pages/norton/8L.swf</page>
+		<page>pages/norton/8R.swf</page>
+		<page>pages/norton/back norton.png</page>
+	</pages>
+</FlippingBook>

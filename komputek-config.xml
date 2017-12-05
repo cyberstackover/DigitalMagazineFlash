@@ -1,0 +1,25 @@
+<FlippingBook>
+	<width>1000</width>
+	<height>700</height>
+	<flipSound>sound/01.mp3</flipSound>
+	<firstPage>1</firstPage>
+
+	<pages>
+		<page>pages/komputek/Index Komputek.swf</page>
+		<page>pages/komputek/Cover komputer L.swf</page>
+		<page>pages/komputek/Cover komputer R.swf</page>
+		<page>pages/komputek/1 L.swf</page>
+		<page>pages/komputek/1 R.swf</page>
+		<page>pages/komputek/2a-a.swf</page>
+		<page>pages/komputek/2a-b.swf</page>
+		<page>pages/komputek/2b-a.swf</page>
+		<page>pages/komputek/2b-b.swf</page>
+		<page>pages/komputek/3 L.swf</page>
+		<page>pages/komputek/3 R.swf</page>
+		<page>pages/komputek/4 L.swf</page>
+		<page>pages/komputek/4 R.swf</page>
+		<page>pages/komputek/5 L.swf</page>
+		<page>pages/komputek/5 R.swf</page>	
+		<page>pages/komputek/back komputek.png</page>
+	</pages>
+</FlippingBook>
